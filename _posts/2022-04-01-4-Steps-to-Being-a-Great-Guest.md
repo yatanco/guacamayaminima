@@ -6,6 +6,7 @@ lang: en
 ---
 
 After many years of moving and traveling a lot—often content with just a laptop, a candle, and a place to sleep—I finally got a place where I could host people.
+<!--more-->
 
 Through the experience of hosting many guests—friends, friends of friends, parents, and others—I realized that my idea of what it means to be a good guest was not necessarily shared by everyone.
 

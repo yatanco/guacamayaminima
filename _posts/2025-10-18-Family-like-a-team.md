@@ -6,6 +6,7 @@ lang: en
 ---
 
 What if your family was more like a team, with roles and rituals to keep it running smoothly?
+<!--more-->
 
 Shifting from being a lone ranger roaming through the world to becoming a stepdad and dad—while living with my partner, two teenage girls, a baby, and my 76-year-old mom—has been one of the biggest blessings of my life.
 

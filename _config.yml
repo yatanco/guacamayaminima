@@ -17,7 +17,7 @@ minima:
   nav_pages:
     - about.md
   show_excerpts: true
-
+  excerpt_separator: "<!--more-->"
 #
 # author:
 #  name: Yatan
