@@ -1,10 +1,6 @@
-# Site-wide settings
-# ------------------
 title: Guacamaya Lab
 description: "An online notebook, honest, unfinished."
 author: Yatan
-
-description: "An online notebook, honest, unfinished."
 
 theme: minima
 
@@ -12,12 +8,13 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+excerpt_separator: "<!--more-->"
+
 minima:
   skin: dark
   nav_pages:
     - about.md
   show_excerpts: true
-  excerpt_separator: "<!--more-->"
 #
 # author:
 #  name: Yatan
