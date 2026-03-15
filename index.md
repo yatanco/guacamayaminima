@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Guacamaya Lab
+title: Home
 ---
 
 An online notebook, honest, unfinished.

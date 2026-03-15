@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Guacamaya Lab
+title: About
 ---
 
 Its about time
