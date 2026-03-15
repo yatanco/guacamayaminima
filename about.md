@@ -3,4 +3,4 @@ layout: home
 title: Guacamaya Lab
 ---
 
-An online notebook, honest, unfinished.
+Its about time

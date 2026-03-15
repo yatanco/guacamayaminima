@@ -1,3 +1,6 @@
-title: My Blog
-description: My thoughts on things
+title: Guacamaya Lab
+description: An online notebook, honest, unfinished.
 theme: minima
+show_excerpts: true
+header_pages:
+  - about.md
