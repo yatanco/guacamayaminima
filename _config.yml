@@ -1,10 +1,27 @@
 # Site-wide settings
 # ------------------
-#
 title: Guacamaya Lab
-#
+description: "An online notebook, honest, unfinished."
 author:
-  name: GitHub User
+  name: Yatan
+
+description: "An online notebook, honest, unfinished."
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: auto
+  nav_pages:
+    - about.md
+  show_excerpts: true
+
+#
+# author:
+#  name: Yatan
 #   email: your-email@domain.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
@@ -20,7 +37,7 @@ author:
 #
 # If you wish to use the gem-version of Minima with or without a Gemfile, use
 #   the following setting:
-theme: minima
+# theme: minima
 #
 # **OR** if you wish to use the theme directly from the GitHub repository by
 #   bypassing a Gemfile, use the following setting instead.
@@ -29,9 +46,9 @@ theme: minima
 # remote_theme: jekyll/minima@d4d779a
 #
 # Minima requires the following plugins:
-plugins:
-- jekyll-feed
-- jekyll-seo-tag
+#plugins:
+#- jekyll-feed
+#- jekyll-seo-tag
 #
 # Uncomment the following setting if you wish to disable deprecation warnings
 #   from newer versions of sass converter. Adapt as required.
@@ -46,7 +63,7 @@ plugins:
 #  *All described config keys below should be nested under the top-level
 #   `minima` key.*
 #
-minima:
+#minima:
 #   Minima skin selection. Available skins are:
 #     * classic            Default, light color scheme.
 #     * dark               Dark variant of the classic skin.
@@ -54,17 +71,17 @@ minima:
 #     * solarized-light    Light variant of solarized color scheme.
 #     * solarized-dark     Dark variant of solarized color scheme.
 #     * solarized          Adaptive skin for solarized color scheme skins.
-skin: auto
+#skin: auto
 #
 #   Specific pages for site navigation.
 #     If you wish to link only specific pages in the site-navigation, use this
 #     and list the `path` property (as represented via Liquid) of the pages in
 #     the order they should be rendered.
-nav_pages:
-- about.md
+#nav_pages:
+#- about.md
 #
 #   Set to `true` to show excerpts on the homepage.
-show_excerpts: true
+#show_excerpts: true
 #
 #   Minima date format.
 #     The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
