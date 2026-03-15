@@ -1,0 +1,29 @@
+---
+---
+
+@import "minima";
+
+/* Better reading width */
+.wrapper {
+  max-width: 720px;
+}
+
+/* Better reading rhythm */
+body {
+  line-height: 1.7;
+  font-size: 18px;
+}
+
+/* Cleaner headings */
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+/* Slightly calmer links */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

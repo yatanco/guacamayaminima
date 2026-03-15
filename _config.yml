@@ -13,7 +13,7 @@ plugins:
   - jekyll-seo-tag
 
 minima:
-  skin: auto
+  skin: dark
   nav_pages:
     - about.md
   show_excerpts: true
